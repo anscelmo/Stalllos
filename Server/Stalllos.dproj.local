@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/19 16:12:26.000.931,=C:\Anselmo\DocsPai\Stalllos\FormUnit1.pas</Transaction>
+    <Transaction>2023/06/19 16:12:48.000.957,=C:\Anselmo\DocsPai\Stalllos\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2023/06/19 16:12:48.000.285,=C:\Anselmo\DocsPai\Stalllos\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2023/06/19 16:12:52.000.214,=C:\Anselmo\DocsPai\Stalllos\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/06/19 16:12:54.000.933,=C:\Anselmo\DocsPai\Stalllos\js\base64.js</Transaction>
+    <Transaction>2023/06/19 16:12:54.000.978,=C:\Anselmo\DocsPai\Stalllos\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2023/06/19 16:12:55.000.130,=C:\Anselmo\DocsPai\Stalllos\js\json2-min.js</Transaction>
+    <Transaction>2023/06/19 16:12:55.000.170,=C:\Anselmo\DocsPai\Stalllos\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2023/06/19 16:12:55.000.003,=C:\Anselmo\DocsPai\Stalllos\js\json2.js</Transaction>
+    <Transaction>2023/06/19 16:12:55.000.087,=C:\Anselmo\DocsPai\Stalllos\js\base64-min.js</Transaction>
+    <Transaction>2023/06/19 16:12:55.000.067,=C:\Anselmo\DocsPai\Stalllos\js\ServerFunctions.js</Transaction>
+    <Transaction>2023/06/19 16:12:55.000.041,=C:\Anselmo\DocsPai\Stalllos\js\CallbackFramework.js</Transaction>
+    <Transaction>2023/06/19 16:12:55.000.196,=C:\Anselmo\DocsPai\Stalllos\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2023/06/19 16:17:13.000.812,C:\Anselmo\DocsPai\Stalllos\FormUnit1.dfm=C:\Anselmo\DocsPai\Stalllos\uPrincipalServer.dfm</Transaction>
+    <Transaction>2023/06/19 16:17:13.000.812,C:\Anselmo\DocsPai\Stalllos\FormUnit1.pas=C:\Anselmo\DocsPai\Stalllos\uPrincipalServer.pas</Transaction>
+    <Transaction>2023/06/19 16:17:49.000.762,C:\Anselmo\DocsPai\Stalllos\WebModuleUnit1.pas=C:\Anselmo\DocsPai\Stalllos\uWebModule.pas</Transaction>
+    <Transaction>2023/06/19 16:17:49.000.762,C:\Anselmo\DocsPai\Stalllos\WebModuleUnit1.dfm=C:\Anselmo\DocsPai\Stalllos\uWebModule.dfm</Transaction>
+    <Transaction>2023/06/19 16:17:58.000.699,C:\Anselmo\DocsPai\Stalllos\ServerContainerUnit1.dfm=C:\Anselmo\DocsPai\Stalllos\uServerContainer.dfm</Transaction>
+    <Transaction>2023/06/19 16:17:58.000.699,C:\Anselmo\DocsPai\Stalllos\ServerContainerUnit1.pas=C:\Anselmo\DocsPai\Stalllos\uServerContainer.pas</Transaction>
+    <Transaction>2023/06/19 16:18:09.000.878,C:\Anselmo\DocsPai\Stalllos\ServerMethodsUnit1.pas=C:\Anselmo\DocsPai\Stalllos\uServerMethods.pas</Transaction>
+    <Transaction>2023/06/19 16:27:29.000.157,=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 16:32:20.000.186,C:\Anselmo\DocsPai\Stalllos\Classes\Pessoa\uPessoa.pas=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 17:08:36.000.025,=C:\Anselmo\DocsPai\Stalllos\Unit2.pas</Transaction>
+    <Transaction>2023/06/19 17:30:24.000.693,=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 17:32:22.000.648,C:\Anselmo\DocsPai\Stalllos\Classes\ConexaoBD\uConexaoFireDac.pas=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 17:44:13.000.329,=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 17:46:36.000.927,C:\Anselmo\DocsPai\Stalllos\Classes\Pessoa\uPessoaList.pas=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 17:48:22.000.750,=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 17:55:03.000.579,C:\Anselmo\DocsPai\Stalllos\Classes\Pessoa\uPessoaService.pas=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 17:55:11.000.040,=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/19 18:00:52.000.425,C:\Anselmo\DocsPai\Stalllos\Classes\Pessoa\uPessoaDAO.pas=C:\Anselmo\DocsPai\Stalllos\Unit1.pas</Transaction>
+    <Transaction>2023/06/26 11:07:36.000.716,=C:\Anselmo\DocsPai\Stalllos\Classes\Endereco\uEndereco.pas</Transaction>
+    <Transaction>2023/06/26 11:07:37.000.924,=C:\Anselmo\DocsPai\Stalllos\Classes\Endereco\uEnderecoService.pas</Transaction>
+    <Transaction>2023/06/26 11:07:37.000.904,=C:\Anselmo\DocsPai\Stalllos\Classes\Endereco\uEnderecoList.pas</Transaction>
+    <Transaction>2023/06/26 11:07:37.000.882,=C:\Anselmo\DocsPai\Stalllos\Classes\Endereco\uEnderecoDAO.pas</Transaction>
+  </Transactions>
+</BorlandProject>

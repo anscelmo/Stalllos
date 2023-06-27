@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/16 11:39:15.000.332,=C:\Users\ansel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 11:59:48.000.063,=C:\Users\ansel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/23 11:39:16.000.630,=C:\Users\ansel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/23 11:39:45.000.641,C:\Users\ansel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Anselmo\DocsPai\Stalllos\Cliente\uPrincipalCliente.dfm</Transaction>
+    <Transaction>2023/06/23 11:39:45.000.641,C:\Users\ansel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Anselmo\DocsPai\Stalllos\Cliente\uPrincipalCliente.pas</Transaction>
+    <Transaction>2023/06/23 11:39:54.000.439,C:\Users\ansel\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Anselmo\DocsPai\Stalllos\Cliente\Cliente.dproj</Transaction>
+    <Transaction>2023/06/23 12:23:57.000.122,=C:\Anselmo\DocsPai\Stalllos\Classes\Pessoa\uPessoa.pas</Transaction>
+    <Transaction>2023/06/26 11:41:57.000.328,=C:\Anselmo\DocsPai\Stalllos\Classes\EnderecoIntegracao\uEnderecoIntegracao.pas</Transaction>
+    <Transaction>2023/06/26 11:41:57.000.534,=C:\Anselmo\DocsPai\Stalllos\Classes\EnderecoIntegracao\uEnderecoIntegracaoDAO.pas</Transaction>
+    <Transaction>2023/06/26 11:41:57.000.540,=C:\Anselmo\DocsPai\Stalllos\Classes\EnderecoIntegracao\uEnderecoIntegracaoList.pas</Transaction>
+    <Transaction>2023/06/26 11:41:57.000.545,=C:\Anselmo\DocsPai\Stalllos\Classes\EnderecoIntegracao\uEnderecoIntegracaoService.pas</Transaction>
+    <Transaction>2023/06/27 08:50:34.000.607,=C:\Anselmo\DocsPai\Stalllos\Classes\Pessoa\uPessoaService.pas</Transaction>
+    <Transaction>2023/06/27 08:50:34.000.596,=C:\Anselmo\DocsPai\Stalllos\Classes\Pessoa\uPessoaList.pas</Transaction>
+    <Transaction>2023/06/27 08:50:45.000.949,=C:\Anselmo\DocsPai\Stalllos\Classes\Endereco\uEndereco.pas</Transaction>
+    <Transaction>2023/06/27 08:50:45.000.959,=C:\Anselmo\DocsPai\Stalllos\Classes\Endereco\uEnderecoList.pas</Transaction>
+    <Transaction>2023/06/27 08:50:45.000.970,=C:\Anselmo\DocsPai\Stalllos\Classes\Endereco\uEnderecoService.pas</Transaction>
+    <Transaction>2023/06/27 08:56:14.000.960,=C:\Anselmo\DocsPai\Stalllos\Classes\ConexaoBD\uConexaoFireDac.pas</Transaction>
+  </Transactions>
+</BorlandProject>
